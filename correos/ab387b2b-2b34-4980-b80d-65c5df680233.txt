@@ -1,0 +1,12 @@
+ID del correo: ab387b2b-2b34-4980-b80d-65c5df680233
+
+Lista de destinatarios: chamuyeros.del.code@outlook.com,ariel.ead@gmail.com,ari.brau.musica@gmail.com,anibaloso@live.com,catalinab.figueroab@gmail.com,cfigueroab@outlook.cl,catalina.figueroa.b@mail.pucv.cl,daynevidal.cueto@gmail.com,gonzalo.soliscaro@gmail.com
+
+Asunto: arreglando error x2
+
+Contenido:
+<h1>Hola! Los Indicadores Económicos del día de Hoy son los siguientes:</h1>
+            <p>El valor de la UF el día de hoy es: 36097.97</p>
+            <p>El valor de la UTM el día de hoy es: 63326</p>
+            <p>El valor del Dólar el día de hoy es: 806.52</p>
+            <p>El valor del Euro el día de hoy es: 884.54</p>
